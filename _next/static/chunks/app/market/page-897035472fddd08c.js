@@ -433,13 +433,7 @@
                           children:
                             "Pets suppliers will be rewarded Pets XP, Scroll Marks and more!",
                         }),
-                        (0, s.jsx)(j.z, {
-                          className:
-                            "bg-[#201817] border border-[#6F3827]  text-[18px] text-white  rounded-[11px] py-[9px] px-[15px] font-normal",
-                          onClick: () =>
-                            window.open("https://scroll.io/sessions"),
-                          children: "Check your Marks here",
-                        }),
+
                       ],
                     }),
                   ],
@@ -469,15 +463,7 @@
                           children:
                             "Switch to higher APY strategies with just one click",
                         }),
-                        (0, s.jsx)(j.z, {
-                          className:
-                            "bg-[#2A50FE]  text-[18px] text-white  rounded-[40px] py-[9px] px-[15px] font-normal hover:bg-[#2A50FE] hover:bg-opacity-80",
-                          onClick: () =>
-                            window.open(
-                              "https://app.bentobatch.com/bento-shift?to=Pets"
-                            ),
-                          children: "Boost Now",
-                        }),
+
                       ],
                     }),
                   ],
@@ -526,13 +512,7 @@
                           children:
                             "Pets suppliers will be rewarded Pets XP, Scroll Marks and more!",
                         }),
-                        (0, s.jsx)(j.z, {
-                          className:
-                            "bg-[#201817] border border-[#6F3827]  text-[11px] text-white  rounded-[10px] leading-[12px] py-[4.5px] px-[10px] font-normal h-[30px]",
-                          onClick: () =>
-                            window.open("https://scroll.io/sessions"),
-                          children: "Check your Marks here",
-                        }),
+ 
                       ],
                     }),
                   ],
@@ -568,15 +548,7 @@
                           children:
                             "Switch to higher APY strategies with just one click",
                         }),
-                        (0, s.jsx)(j.z, {
-                          className:
-                            "bg-[#2A50FE] text-[11px] text-white  rounded-[40px] leading-[12px] py-[4.5px] px-[10px] font-normal h-[30px]  hover:bg-[#2A50FE] hover:bg-opacity-80",
-                          onClick: () =>
-                            window.open(
-                              "https://app.bentobatch.com/bento-shift?to=Pets"
-                            ),
-                          children: "Boost Now",
-                        }),
+
                       ],
                     }),
                   ],
